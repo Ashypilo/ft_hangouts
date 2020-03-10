@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_edit"
+        android:title="@string/edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+
+    <item
+        android:id="@+id/navigation_sms"
+        android:title="@string/sms"
+        android:icon="@android:drawable/ic_menu_send"
+        />
+
+    <item
+        android:id="@+id/navigation_save"
+        android:title="@string/save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:enabled="false"
+        />
+
+</menu>

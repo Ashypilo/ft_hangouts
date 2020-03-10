@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="create_contact">Create contact</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="change_theme">change theme</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="sms">sms</string>
+    <string name="mail">mail</string>
+    <string name="create">create</string>
+    <string name="enter_sms">Enter SMS</string>
+    <string name="send_sms">Send</string>
+    <string name="write_data">Write all the data</string>
+    <string name="sms_send">SMS Send!</string>
+    <string name="sms_not_send">SMS not send!</string>
+    <string name="you_were_not">You were not </string>
+    <string name="sec">sec.</string>
+    <string name="minute">min. </string>
+    <string name="hour">hour </string>
+    <string name="call">call</string>
+    <string name="edit">edit</string>
+    <string name="deleted">deleted</string>
+    <string name="saved">saved</string>
+    <string name="theme_menu">Theme menu</string>
+
+</resources>

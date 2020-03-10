@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="create_contact">Створення контакту</string>
+    <string name="green">Зелений</string>
+    <string name="blue">Синій</string>
+    <string name="change_theme">Змінити тему</string>
+    <string name="name">Ім\'я:</string>
+    <string name="surname">Прізвище:</string>
+    <string name="phone">Номер:</string>
+    <string name="email">Поштa:</string>
+    <string name="save">зберегти</string>
+    <string name="delete">Видалити</string>
+    <string name="sms">смс</string>
+    <string name="mail">поштою</string>
+    <string name="create">створити</string>
+    <string name="enter_sms">Введіть смс</string>
+    <string name="send_sms">відправити</string>
+    <string name="write_data">Заповніть всі данні</string>
+    <string name="sms_send">SMS відправлено!</string>
+    <string name="sms_not_send">SMS не відправлено!</string>
+    <string name="you_were_not">Вас не було </string>
+    <string name="sec">сек.</string>
+    <string name="minute">хв. </string>
+    <string name="hour">год. </string>
+    <string name="call">подзвонити</string>
+    <string name="edit">змiнити</string>
+    <string name="deleted">видалено</string>
+    <string name="saved">збережено</string>
+    <string name="theme_menu">Тема меню</string>
+
+</resources>

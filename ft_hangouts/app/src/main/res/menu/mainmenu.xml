@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/text_style"
+        android:title="@string/theme_menu"
+        app:showAsAction="always|withText"
+        android:orderInCategory="1"
+        >
+        <menu>
+
+        <item
+            android:id="@+id/blue"
+            android:title="@string/blue"
+            android:onClick="onChangeMenu"
+            />
+        <item
+            android:id="@+id/green"
+            android:title="@string/green"
+            android:onClick="onChangeMenu"
+            />
+            </menu>
+    </item>
+</menu>
